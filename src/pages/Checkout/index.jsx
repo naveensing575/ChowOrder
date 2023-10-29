@@ -228,8 +228,6 @@ const CheckoutPage = () => {
                             className="bg-white-A700 border border-gray-400 border-solid leading-[normal] pb-[35px] pl-4 sm:pr-5 pr-[35px] pt-[22px] rounded-lg text-base placeholder:text-gray-500 text-gray-500 text-left w-full"
                             name="Massage"
                             placeholder="Message"
-                            name="Massage"
-                            placeholder="Message"
                           ></TextArea>
                         </div>
                       </div>

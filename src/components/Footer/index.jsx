@@ -85,12 +85,6 @@ const Footer = (props) => {
                 Page
               </Text>
               <Text
-                className="mt-[43px] text-gray-300 text-xl"
-                size="txtPoppinsRegular20Gray300"
-              >
-                Home
-              </Text>
-              <Text
                 className="mt-[35px] text-gray-300 text-xl"
                 size="txtPoppinsRegular20Gray300"
               >

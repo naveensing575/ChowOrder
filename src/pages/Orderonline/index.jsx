@@ -20,14 +20,6 @@ const OrderonlinePage = () => {
                 alt="Logo"
               />
               <div className="flex md:flex-1 sm:flex-col flex-row font-opensans sm:gap-5 items-start justify-center md:ml-[0] ml-[107px] md:mt-0 mt-2.5 pt-0.5 w-[52%] md:w-full">
-                <div className="flex flex-col items-center justify-start">
-                  <Text
-                    className="text-base text-gray-900_cc"
-                    size="txtOpenSansRomanRegular16Gray900cc"
-                  >
-                    Home
-                  </Text>
-                </div>
                 <div className="flex flex-col items-center justify-start ml-8 sm:ml-[0]">
                   <Text
                     className="common-pointer text-base text-gray-900_cc"
