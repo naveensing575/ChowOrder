@@ -6,4 +6,4 @@
 - Implemented React Portals to create modals for user input and confirmation.
 - Utilized CSS modules for styling and to avoid classes clash.
 
-## Live Link: https://food-ordering-app-react-by-she.netlify.app/
+## Live Link:
